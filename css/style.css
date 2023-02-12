@@ -194,6 +194,13 @@ body {
 .slide_img .text .t2 {
 	display: none;
 }
+.slide_img .text .t2 a{
+	color: #fff;
+}
+.slide_img .text .t2 a:hover{
+	background-color: #fff;
+	color: #000;
+}
 
 /*=============== section1_brand ===============*/
 .section {
